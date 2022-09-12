@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/12 09:09:37.000.624,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/12 09:10:27.000.101,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=W:\Users\juerg\git-win\UChoose.pas</Transaction>
+    <Transaction>2022/09/12 09:10:27.000.101,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=W:\Users\juerg\git-win\UChoose.dfm</Transaction>
+    <Transaction>2022/09/12 09:11:00.000.422,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=W:\Users\juerg\git-win\MidiSelector.dproj</Transaction>
+    <Transaction>2022/09/12 09:11:16.000.402,W:\Users\juerg\git-win\UChoose.dfm=W:\Users\juerg\git-win\USelector.dfm</Transaction>
+    <Transaction>2022/09/12 09:11:16.000.402,W:\Users\juerg\git-win\UChoose.pas=W:\Users\juerg\git-win\USelector.pas</Transaction>
+    <Transaction>2022/09/12 09:22:16.196,=W:\Users\juerg\git-win\MidiSelector\UVirtualHarmonica.pas</Transaction>
+    <Transaction>2022/09/12 09:23:03.077,W:\Users\juerg\git-win\MidiSelector\USelector.pas=W:\Users\juerg\git-win\MidiSelector\UVirtualHarmonica.pas</Transaction>
+    <Transaction>2022/09/12 09:23:03.077,W:\Users\juerg\git-win\MidiSelector\USelector.dfm=W:\Users\juerg\git-win\MidiSelector\UVirtualHarmonica.dfm</Transaction>
+    <Transaction>2022/09/12 10:27:58.976,=W:\Users\juerg\git-win\MidiSelector\Midi.pas</Transaction>
+    <Transaction>2022/09/12 10:27:59.007,=W:\Users\juerg\git-win\MidiSelector\UBanks.pas</Transaction>
+    <Transaction>2022/09/12 10:27:59.046,=W:\Users\juerg\git-win\MidiSelector\UFormHelper.pas</Transaction>
+  </Transactions>
+</BorlandProject>
